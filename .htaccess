@@ -1,0 +1,5 @@
+AddOutputFilterByType DEFLATE text/html text/plain text/xml text/javascript text/css application/javascript
+
+# Set the default handler.
+DirectoryIndex index.php index.html index.htm
+

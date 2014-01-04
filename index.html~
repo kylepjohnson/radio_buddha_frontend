@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<!-- <html> -->
+<head>
+<meta charset="UTF-8">
+<title>Radio Buddha: Free Dharma for a free planet</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- begin Bootstrap CSS -->
+<link href="css/bootstrap.css" rel="stylesheet" media="screen">
+<!-- end Bootstrap CSS -->
+<!-- begin jPlayer CSS -->
+<link href="css/jplayer.orange.monday.css" rel="stylesheet" type="text/css" />
+<!-- end jPlayer CSS -->
+<!-- begin favicons -->
+<link rel="shortcut icon" href="img/favicons/favicon.png">
+<link rel="apple-touch-icon" href="img/favicons/apple-touch-icon_57_57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="img/favicons/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="114x114" href="img/favicons/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="144x144" href="img/favicons/touch-icon-ipad-retina.png">
+<!-- end favicons -->
+</head>
+<body>
+<div class="row-fluid">
+  <div class="span6"><h1 class="title">Radio Buddha</h1><h1 class="subtitle">Free Dharma for a free planet</h1>
+    <div class="navbar navbar">
+      <section id="navbar">
+        <div class="page-header">
+          <div class="navbar">
+            <ul class="nav">
+              <li class="active"><a href="#teachers">Teachers</a></li>
+              <li class="active"><a href="#about">About</a></li>
+            </ul>
+          </div>
+        </div>
+      </section><br />
+    </div><!-- class="navbar navbar" -->
+    <div style="float:left; margin-right:10px;"><!-- float left for player -->
+    <!-- jPlayer below --> <!-- ▶ -->
+      <div id="jquery_jplayer_1" class="jp-jplayer">
+      </div><!-- keep this -->
+      <div id="jp_container_1" class="jp-audio">
+        <div class="jp-type-single">
+          <div class="jp-gui jp-interface">
+            <ul class="jp-controls">
+              <li><a href="javascript:;" class="jp-play" tabindex="1">play</a></li>
+              <li><a href="javascript:;" class="jp-pause" tabindex="1">pause</a></li>
+            </ul>
+          </div><!-- class="jp-gui jp-interface" -->
+          <div class="jp-no-solution">
+            <span>Update Required</span>
+            To play the media you will need to either update your browser to a recent version or update your <a 
+href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+          </div><!-- class="jp-no-solution" -->
+        </div><!-- class="jp-type-single" -->
+      </div><!-- id="jp_container_1" class="jp-audio" -->
+    <!-- jPlayer above -->
+    </div>Radio Buddha broadcasts some of the world's best teachers of Buddhism. Offering custom-scheduled content 24/7, Radio Buddha is and will always be completely free. Our only hope is that as many as possible enjoy the Buddha's message of wisdom and compassion.
+  </div><!-- class="span6" -->
+  <div class="span6">
+    <!-- logo below -->
+    <img class="logo" src="img/logo.png" alt="logo">
+    <!-- logo above -->
+  </div><!-- class="span6" -->
+</div><!-- class="row2-fluid"  -->
+
+<!-- Teachers Section
+================================================== -->
+<section id="teachers">
+  <div class="page-header">
+    <h1>Teachers</h1>
+  </div>
+  <div class="row-fluid">
+    <div class="span4"><h4>His Holiness the Dalai Lama</h4><img class="teacher" src="img/grey.gif" alt="hhdl" data-original="img/teachers/hhdl.jpeg" width="480" height="360"><p class="teacher_bio">His Holiness the 14th Dalai Lama, Tenzin Gyatso, is both the head of state and the spiritual leader of Tibet. He was born on 6 July 1935, to a farming family, in a small hamlet located in Taktser, Amdo, northeastern Tibet. At the age of two the child, who was named Lhamo Dhondup at that time was recognized as the reincarnation of the 13th Dalai Lama, Thubten Gyatso. The Dalai Lamas are believed to be manifestations of Avalokiteshvara or Chenrezig, the Bodhisattva of Compassion and patron saint of Tibet. Bodhisattvas are enlightened beings who have postponed their own nirvana and chosen to take rebirth in order to serve humanity.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.dalailama.com">http://www.dalailama.com</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://www.dalailama.com/biography/a-brief-biography">http://www.dalailama.com/biography/a-brief-biography</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://www.dalailama.com/webcasts">http://www.dalailama.com/webcasts</a></dd>
+        <dd><a target="_blank" href="http://uma-tibet.org/edu/dltours/dltours.php">http://uma-tibet.org/edu/dltours/dltours.php</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+    <div class="span4"><h4>His Holiness the Sakya Trizin</h4><img class="teacher" src="img/grey.gif" alt="hhst" data-original="img/teachers/hhst.jpeg" width="480" height="360">
+<p class="teacher_bio">His Holiness was born on the 7th of September 1945, the 1st day of the 8th Lunar month in the year of the Wood Bird at the Sakya palace in Tsedong. In 1951, His Holiness made a pilgrimage to Lhasa , where he was designated the throne Holder of the Sakya Order by His Holiness the 14th Dalai Lama. Accordingly, the following year, a preliminary enthronement ceremony was held in which he accepted the official Sakya seals. Following the Chinese invasion of Tibet in 1959, His Holiness moved to India, established the Sakya Guru monastery in Darjeeling and began the major task of reassembling the Sakya community. In exile he continued to receive extensive philosophical teachings in Logic, Abhidharma, the Prajnaparamita and the Clarification of the Three Vows from great scholars such as Khenpo Dosep Thubten, Khenpo Serjong Appey and Khenpo Rinchen. He continues to teach throughout the Americas, Europe, and Asia.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.hhthesakyatrizin.org">http://www.hhthesakyatrizin.org</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://www.hhthesakyatrizin.org/bio_hhst.html">http://www.hhthesakyatrizin.org/bio_hhst.html</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://www.hhthesakyatrizin.org/media_main.html">http://www.hhthesakyatrizin.org/media_main.html</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+    <div class="span4"><h4>His Holiness the Karmapa</h4><img class="teacher" src="img/grey.gif" alt="hhk" data-original="img/teachers/hhk.jpeg" width="480" height="360">
+<p class="teacher_bio">Karmapa means "the one who carries out buddha-activity" or "the embodiment of all the activities of the buddhas." In the Tibetan tradition, great enlightened teachers are said to be able to consciously arrange to be reborn as a teacher who can carry on the teachings of a predecessor in a prior life. On December 28 1999, the fourteen-year-old Karmapa pretended to enter into a solitary retreat, instead donned civilian garb, and slipped out a window. Leaving Tsurphu Monastery with a handful of attendants, he began a daring journey by car, foot, horseback, helicopter, train and taxi, a heroic journey which was to become the stuff of headlines throughout the world. On January 5, 2000 he arrived, to the great surprise and overwhelming joy of the world, in Dharamsala, India, where he was met by His Holiness the Fourteenth Dalai Lama. He received refugee status from the government of India in 2001. Since 2008, His Holiness has received permission to travel to the United States to teach the dharma in the West.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.kagyu.org">http://www.kagyu.org</a></dd>
+        <dd><a target="_blank" href="http://www.kagyuoffice.org">http://www.kagyuoffice.org</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://www.kagyuoffice.org/karmapa.html">http://www.kagyuoffice.org/karmapa.html</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://kagyuoffice.org/teachings/">http://kagyuoffice.org/teachings/</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+  </div><!-- class="row-fluid" -->
+  <div class="row-fluid">
+    <div class="span4"><h4>Most Venerable Thich Nhat Hanh</h4><img class="teacher" src="img/grey.gif" alt="vtnh" data-original="img/teachers/vtnh.jpeg" width="480" height="360">
+<p class="teacher_bio">One of the best known and most respected Zen masters in the world today, poet, and peace and human rights activist, Thich Nhat Hanh (called Thây by his students) has led an extraordinary life. Born in central Vietnam in 1926 he joined the monkshood at the age of sixteen. The Vietnam War confronted the monasteries with the question of whether to adhere to the contemplative life and remain meditating in the monasteries, or to help the villagers suffering under bombings and other devastation of the war. Nhat Hanh was one of those who chose to do both, helping to found the "engaged Buddhism" movement. His life has since been dedicated to the work of inner transformation for the benefit of individuals and society.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.plumvillage.org">http://www.plumvillage.org</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://www.plumvillage.org/thich-nhat-hanh.html">http://www.plumvillage.org/thich-nhat-hanh.html</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://tnhaudio.org">http://tnhaudio.org</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+    <div class="span4"><h4>Lama Thubten Yeshe</h4><img class="teacher" src="img/grey.gif" alt="ty" data-original="img/teachers/ty.jpeg" width="480" height="360"><p class="teacher_bio">Lama Thubten Yeshe was born in Tibet in 1935. At the age of six, he entered Sera Monastic University in Tibet where he studied until 1959, when as Lama Yeshe himself has said, "In that year the Chinese kindly told us that it was time to leave Tibet and meet the outside world." Lama Thubten Yeshe and Lama Thubten Zopa Rinpoche, together as teacher and disciple since their exile in India, met their first Western students in 1965. By 1971 they settled at Kopan, a small hamlet near Kathmandu in Nepal. In 1974, the Lamas began touring and teaching in the West, which would eventually result in The Foundation for the Preservation of the Mahayana Tradition. Lama Yeshe died in 1984.</p>
+      <dl>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://www.fpmt.org/teachers/yeshe.html">http://www.fpmt.org/teachers/yeshe.html</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://www.lamayeshe.com/index.php">http://www.lamayeshe.com/index.php</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+    <div class="span4"><h4>Lama Thubten Zopa Rinpoche</h4><img class="teacher" src="img/grey.gif" alt="lzr" data-original="img/teachers/lzr.jpeg" width="480" height="360">
+<p class="teacher_bio">Lama Zopa Rinpoche, the spiritual director of The Foundation for the Preservation of the Mahayana Tradition, is the reincarnation of the Sherpa Nyingma yogi Kunsang Yeshe, the Lawudo Lama. Rinpoche was born in 1946 in Thami, not far from the cave Lawudo, in the Mount Everest region of Nepal, where his predecessor meditated for the last twenty years of his life. In 1971 Rinpoche took gelong ordination from His Holiness Ling Rinpoche in Bodh Gaya. By 1975, twelve centers had started. In 1976, the growing worldwide organization was named by Lama Yeshe 'the Foundation for the Preservation of the Mahayana Tradition' (FPMT). The FPMT is an organization devoted to the transmission of the Mahayana Buddhist tradition and values worldwide through teaching, meditation and community service.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.fpmt.org/teachers/zopa.html">http://www.fpmt.org/teachers/zopa.html</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://www.fpmt.org/teachers/zopa/articles.html">http://www.fpmt.org/teachers/zopa/articles.html</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://www.lamayeshe.com/index.php">http://www.lamayeshe.com/index.php</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+  </div><!-- class="row-fluid" -->
+  <div class="row-fluid">
+    <div class="span4"><h4>Ajahn Brahm</h4><img class="teacher" src="img/grey.gif" alt="ab" data-original="img/teachers/ab.jpeg" width="480" height="360">
+<p class="teacher_bio">Ajahn Brahmavamso Mahathera (known to most as Ajahn Brahm), born Peter Betts in London, United Kingdom on 7 August 1951, is a Theravada Buddhist monk. He came from a working-class background and went to Latymer Upper School. He won a scholarship to study Theoretical physics at Cambridge University in the late 1960s. After graduating from Cambridge he taught in high school for one year before traveling to Thailand to become a monk and train with the Ajahn Chah Bodhinyana Mahathera. Brahm was ordained in Bangkok at the age of twenty-three by the Abbot of Wat Saket. He subsequently spent nine years studying and training in the forest meditation tradition under Ajahn Chah.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.ajahnbrahm.org">http://www.ajahnbrahm.org</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://en.wikipedia.org/wiki/Ajahn_Brahm">http://en.wikipedia.org/wiki/Ajahn_Brahm</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://www.dhammaloka.org.au/downloads/itemlist/category/18-ajahn-brahmavamso.html">http://www.dhammaloka.org.au/downloads/itemlist/category/18-ajahn-brahmavamso.html</a></dd>
+        <dd><a target="_blank" href="http://diydharma.org/audio/by/artist/ajahn_brahm">http://diydharma.org/audio/by/artist/ajahn_brahm</a></dd>
+        <dd><a target="_blank" href="http://brahmstalks.wordpress.com">http://brahmstalks.wordpress.com</a></dd>
+        <dt>Photo credit</dt>
+        <dd><a target="_blank" href="http://en.wikipedia.org/wiki/File:Ajahn_Brahm_Kathina_Day.jpg">http://en.wikipedia.org/wiki/File:Ajahn_Brahm_Kathina_Day.jpg</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+    <div class="span4"><h4>Bhikkhu Anandajoti</h4><img class="teacher" src="img/grey.gif" alt="ba" data-original="img/teachers/ba.jpeg" width="480" height="360">
+<p class="teacher_bio">Bhikkhu Anandajoti was born near Birmingham in England and spent the better part of his first 35 years there, but is now a resident in the East since 1987, mainly in Sri Lanka, India, and Malaysia. He ordained in the Theravāda tradition in 1995 and received higher ordination the following year. He is currently a resident in Vivekavana Solitude Grove, a remote meditation centre near the top of a mountain in Penang State, Malaysia. Godwin Samararatne was his first Dhamma teacher and his first Buddhist meditation teacher, so he has proved to be one of the most influential people in his life.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://records.photodharma.net">http://records.photodharma.net</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://www.dhammawiki.com/index.php">http://www.dhammawiki.com/index.php</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://records.photodharma.net/category/audio">http://records.photodharma.net/category/audio</a></dd>
+        <dd><a target="_blank" href="http://archive.org/search.php">http://archive.org/search.php</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+    <div class="span4"><h4>Geshe Ngawang Dakpa</h4><img class="teacher" src="img/grey.gif" alt="gnd" data-original="img/teachers/gnd.jpeg" width="480" height="360">
+<p class="teacher_bio">Born in Nagchu, Central Tibet, a village at an altitude of 14,000 feet with year round ice and snow, he lived with his nomadic family. At the age of ten he entered Orbak Monastery, where he learned to read and write. In 1953, he traveled to the capital of Lhasa and entered Sera, one of the three great monastic universities in Tibet, and home to 7,200 monks. It was the Junior Tutor of the Dalai Lama who fully ordained him as a monk. His contemporaries at Sera were Lama Yeshe and Lama Zopa, founders of Tse Chen Ling. In 1959, during the Cultural Revolution, Chinese troops shelled Sera. Geshe La's life hung on a thread for days. When he learned that the Dalai Lama had fled, he decided to follow and escaped to India.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.tsechenling.org">http://www.tsechenling.org</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://www.tsechenling.org/dakpa.html">http://www.tsechenling.org/dakpa.html</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://archive.org/details/tse_chen_ling">http://archive.org/details/tse_chen_ling</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+  </div><!-- class="row-fluid" -->
+  <div class="row-fluid">
+    <div class="span4"><h4>Godwin Samararatne</h4><img class="teacher" src="img/grey.gif" alt="gs" data-original="img/teachers/gs.jpeg" width="480" height="360">
+    <p class="teacher_bio">Acharya Godwin Samararatne (6 September 1932 – 22 March 2000) was one of the best known lay meditation teachers in Sri Lanka in recent times. In about 1977 Godwin started helping Dr. L. Rodrigo who worked in the Psychiatric Ward of the Kandy General Hospital. This was the beginning of a long career in counselling and therapeutic work that Godwin was to undertake at various centres, clinics and hospitals around the Kandy area, and that continued until his death. During the 1980s Godwin started receiving and accepting invitations for teaching tours that were being organised for him in Switzerland, Germany, U.K., South Africa and Botswana; and later in Hong Kong, Taiwan and Singapore. This touring only increased during the 1990s, and Godwin gave many teachings throughout Europe, Asia and Africa right until the time of his death shortly after returning from a tour of South Africa. He taught meditation not only to Theravada Buddhists but to all sorts of groups, including Christian priests and pastors, and Chinese Mahayana Buddhists.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.godwin-home-page.net">http://www.godwin-home-page.net</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://en.wikipedia.org/wiki/Godwin_Samararatne">http://en.wikipedia.org/wiki/Godwin_Samararatne</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://www.godwin-home-page.net/Audio/Audio.htm">http://www.godwin-home-page.net/Audio/Audio.htm</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+    <div class="span4"><h4>Jack Kornfield</h4><img class="teacher" src="img/grey.gif" alt="jk" data-original="img/teachers/jk.jpeg" width="480" height="360">
+<p class="teacher_bio">Jack Kornfield trained as a Buddhist monk in the monasteries of Thailand, India and Burma. He has taught meditation internationally since 1974 and is one of the key teachers to introduce Buddhist mindfulness practice to the West. He began his training after graduating from Dartmouth College in Asian Studies in 1967. Then he joined the Peace Corps and was assigned to the Public Health Service in northeast Thailand, which is home to several of the world’s oldest Buddhist forest monasteries. He met and studied under the Buddhist master Ven. Ajahn Chah, as well as the Ven. Mahasi Sayadaw of Burma. After returning to the United States, Jack co-founded the Insight Meditation Society in Barre, Massachusetts, with fellow meditation teachers Sharon Salzberg and Joseph Goldstein. He is also a founding teacher of the Spirit Rock Center in Woodacre, California, where he currently lives and teaches. Over the years, Jack has taught in centers and universities worldwide, led International Buddhist Teacher meetings with the Dalai Lama and worked with many of the great teachers of our time. He holds a Ph.D. in clinical psychology and is a husband, father and an activist.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.jackkornfield.com">http://www.jackkornfield.com</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://www.jackkornfield.com/about-bio">http://www.jackkornfield.com/about-bio</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://www.dharmaseed.org/teacher/85">http://www.dharmaseed.org/teacher/85</a></dd>
+        <dd><a target="_blank" href="http://www.spiritrock.org/InstructorDetails">http://www.spiritrock.org/InstructorDetails</a></dd>
+        <dd><a target="_blank" href="http://diydharma.org/audio/by/artist/jack_kornfield">http://diydharma.org/audio/by/artist/jack_kornfield</a></dd>
+        <dd><a target="_blank" href="http://www.zencast.org/webpage/category/Jack%20Kornfield">http://www.zencast.org/webpage/category/Jack%20Kornfield</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+    <div class="span4"><h4>Kalu Rinpoche</h4><img class="teacher" src="img/grey.gif" alt="kr" data-original="img/teachers/kr.jpeg" width="480" height="360">
+<p class="teacher_bio">Vajradhara Kalu Rinpoche was born in 1905 in Kham province in eastern Tibet. His father, the thirteenth incarnation of Ratak Palsang Tulku was an accomplished Yogi and well-known Doctor. His mother Drolkar devoted to Dharma from an early age completed one hundred million recitations of the Vajra Guru mantra, two hundred million Mani’s, and one hundred million Vajrasattva mantras. At the age of 25 he renounced all worldly activity and began approximately 15 years of intensive solitary retreat in the remote mountainous areas in the manor of the great Tibetan Yogi Milirepa. In 1962 Kalu Rinpoche went to Darjeeling West Bengal India where he established his own Monastery and Retreat Center, Samdrup Darjay Choling Monastery where students from any tradition may do retreat practices in the Rime Tradition. Upon the request of his Holiness the 16th Karmapa, Kalu Rinpoche made his first of many trips to the West in 1971, stopping to visit Holy sites in Jerusalem then visiting Pope Paul VI at the Vatican. Kalu Rinpoche respected all of the world’s religions and spiritual traditions. During his life he made numerous trips around the world, establishing a large number of Meditation and Retreat Centers. Through his unceasing love and compassion he turned the great wheel of the Precious Buddha Dharma worldwide benefiting countless being.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.shangpa.net">http://www.shangpa.net</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://www.shangpa.net/spip.php">http://www.shangpa.net/spip.php</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+  </div><!-- class="row-fluid" -->
+  <div class="row-fluid">
+    <div class="span4"><h4>Ken McLeod</h4><img class="teacher" src="img/grey.gif" alt="km" data-original="img/teachers/km.jpeg" width="480" height="360">
+<p class="teacher_bio">Ken McLeod (born 1948) is a senior Western translator, author and teacher of Tibetan Buddhism. He received traditional training mainly in the Shangpa-Kagyu lineage, through a long association with his principal teacher Kalu Rinpoche, whom he met in 1970. Under Kalu Rinpoche’s guidance McLeod learned the Tibetan language and completed two, traditional three-year retreats (1976-83). In the years that followed, he traveled and worked with Kalu Rinpoche on various projects and became a prominent translator of Buddhist texts. This includes a landmark translation of <em>The Great Path of Awakening</em> by Jamgon Kongtrul, a key text in the teaching of Lojong (the Seven Points of Mind Training).In 1985 he settled in Los Angeles to run Kalu Rinpoche’s dharma center. He did so until 1990, when he founded his own organization, Unfettered Mind. He teaches strictly traditional material but is recognized (1) for having pioneered a new teacher-student model, based upon ongoing, one-on-one consultations and upon small teaching groups that have a high degree of teacher-student interaction; and (2) for his "pragmatic" approach to teaching, translation and practice.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.unfetteredmind.org">http://www.unfetteredmind.org</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://en.wikipedia.org/wiki/Ken_McLeod">http://en.wikipedia.org/wiki/Ken_McLeod</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://staging.unfetteredmind.org/category/transcripts">http://staging.unfetteredmind.org/category/transcripts</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+    <div class="span4"><h4>Khenpo Pema Wangdak</h4><img class="teacher" src="img/grey.gif" alt="kp" data-original="img/teachers/kp.jpeg" width="480" height="360">
+<p class="teacher_bio">In 1982, Khenpo Pema was sent to the West by His Holiness Sakya Trizin, as the first of the younger generation of Tibetan teachers in America from the Sakya School. In 1989, he founded the Vikramasila Foundation, which encompasses the Palden Sakya Centers in New York City, Woodstock, NY, Philmont, NY, Cresskill, NJ, Jamaica, VT, and Dayton OH. The Palden Sakya Centers offer courses in Tibetan Buddhist studies and meditation. Khenpo Pema is the creator of "Bur Yig," a Tibetan Braille system, and the founder of Pema Ts'al (English for Lotus Grove) School in Mundgod, India (for Tibetan lay children); and the Pema Ts’al Sakya Monastic Institute in Pokara, Nepal (monastic schools for boys); and Pema Ts'al School in New York City, with a curriculum modeled on that of Sakya College, India. In 2007, Khenpo Pema was recognized with the title of "Khenpo" by His Holiness Sakya Trizin. He received the distinguished "Ellis Island Medal of Honor" award by the National Ethical Coalition of Organizations in May, 2009 at Ellis Island for his humanitarian work around the world. Khenpo Pema is the first Tibetan ever to have received such an award.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://vikramasila.org">http://vikramasila.org</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://vikramasila.org/teachers">http://vikramasila.org/teachers</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://vikramasila.org/media">http://vikramasila.org/media</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+    <div class="span4"><h4>Thanissaro Bhikkhu</h4><img class="teacher" src="img/grey.gif" alt="tb" data-original="img/teachers/tb.jpeg" width="480" height="360">
+    <p class="teacher_bio">Thanissaro Bhikkhu was born Geoffrey DeGraff in 1949 and was introduced to the Buddha's teaching on the Four Noble Truths as a high schooler, during a plane ride from the Philippines. After graduating in 1971 with a degree in European Intellectual History from Oberlin College, he travelled to Thailand, where he practiced meditation under Ajaan Fuang Jotiko, who'd studied under Ajaan Lee. He was ordained in 1976 at Ajaan Lee's Wat Asokaram, where Ajaan Lee's nephew, Phra Rajvarakhun (Samrong Gunavuddho), served as Preceptor for his ordination. Later, he took residence at Wat Dhammasathit in Thailand, where he continued studying under Ajaan Fuang. He travelled to San Diego County in 1991, upon request of Ajaan Suwat Suvaco, where he helped start Metta Forest Monastery. He became abbot of the monastery in 1993. In 1995, Ajaan Geoff became the first American born, non-Thai bhikkhu to be given the title, authority, and responsibility of Preceptor (Upajjhaya) in the Dhammayut Order. He also serves as Treasurer of that order in the United States.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.watmetta.org">http://www.watmetta.org</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://en.wikipedia.org/wiki/Thanissaro_Bhikkhu">http://en.wikipedia.org/wiki/Thanissaro_Bhikkhu</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://diydharma.org/audio/by/artist/thanissaro_bhikkhu">http://diydharma.org/audio/by/artist/thanissaro_bhikkhu</a></dd>
+        <dd><a target="_blank" href="http://www.accesstoinsight.org/lib/authors/thanissaro">http://www.accesstoinsight.org/lib/authors/thanissaro</a></dd>
+        <dd><a target="_blank" href="http://www.audiodharma.org/teacher/16">http://www.audiodharma.org/teacher/16</a></dd>
+        <dd><a target="_blank" href="http://dharmaseed.org/teacher/179">http://dharmaseed.org/teacher/179</a></dd>
+        <dd><a target="_blank" href="http://www.dhammatalks.org/mp3_index.html">http://www.dhammatalks.org/mp3_index.html</a></dd>
+        <dt>Photo Credit</dt>
+        <dd><a target="_blank" href="http://vanhoaphatgiaoblog.com/phatphap/nang-luc-phan-xet.html">http://vanhoaphatgiaoblog.com/phatphap/nang-luc-phan-xet.html</a></dd>
+      </dl>
+    </div><!--class="span4"  -->
+  </div><!-- class="row-fluid" -->
+  <div class="row-fluid">
+    <div class="span4"><h4>Venerable Amy Miller</h4><img class="teacher" src="img/grey.gif" alt="vam" data-original="img/teachers/vam.jpeg" width="480" height="360">
+<p class="teacher_bio">While taking a break from political organizing in Washington, DC, Amy Miller (Ven. Losang Chodren) first encountered Tibetan Buddhism in the spring of 1987 during a course at Kopan Monastery in Nepal. Since then, she has spent a great deal of time engaged in meditation retreats, study, teaching, and Buddhist center management in India, Nepal and the United States. Amy was ordained as a Buddhist nun in June 2000 by the great Tibetan master, Ven. Choden Rinpoche, and has been teaching extensively since 1992. Amy is the co-author of <em>Buddhism in a Nutshell</em>, and a contributor to <em>Living in the Path</em>, a series of online courses produced by the Foundation for the Preservation of the Mahayana Tradition (FPMT).</p>
+
+<p class="teacher_bio">Presently, Amy continues to teach around the world and has been the director of Milarepa Center since 2008.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.milarepacenter.org/teachers.html">http://www.milarepacenter.org/teachers.html</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://www.milarepacenter.org/teachers.html">http://www.milarepacenter.org/teachers.html</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://archive.org/search.php">http://archive.org/search.php</a></dd>
+      </dl>
+    </div><!-- class="span4"  -->
+    <div class="span4"><h4>Venerable Bhikkhu Bodhi</h4><img class="teacher" src="img/grey.gif" alt="vbb" data-original="img/teachers/vbb.jpeg" width="480" height="360">
+<p class="teacher_bio">Bhikkhu Bodhi is an American Buddhist monk from New York City. Born in Brooklyn, New York, in 1944, he obtained a BA in philosophy from Brooklyn College (1966) and a PhD in philosophy from Claremont Graduate School (1972). Drawn to Buddhism in his early 20s, after completing his university studies he traveled to Sri Lanka, where he received novice ordination in 1972 and full ordination in 1973, both under the late Ven. Ananda Maitreya, the leading Sri Lankan scholar-monk of recent times. Ven. Bodhi has many important publications to his credit, either as author, translator, or editor, including <em>The Middle Length Discourses of the Buddha: A Translation of the Majjhima Nikaya</em>, <em>The Connected Discourses of the Buddha: A Translation of the Samyutta Nikaya </em>, and <em>In the Buddha’s Words</em>. He returned to the U.S. in 2002 and currently resides at Chuang Yen Monastery and teaches there and at Bodhi Monastery.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://bodhimonastery.org">http://bodhimonastery.org</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://bodhimonastery.org/ven-bhikkhu-bodhi.html">http://bodhimonastery.org/ven-bhikkhu-bodhi.html</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://bodhimonastery.org/religion/audios">http://bodhimonastery.org/religion/audios</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+    <div class="span4"><h4>Venerable Robina Courtin</h4><img class="teacher" src="img/grey.gif" alt="vrc" data-original="img/teachers/vrc.jpeg" width="480" height="360">
+<p class="teacher_bio">Ordained since the late 1970s, Ven. Robina has worked full time since then for Lama Thubten Yeshe and Lama Zopa Rinpoche's FPMT. Over the years she has served as editorial director of Wisdom Publications, editor of Mandala Magazine, executive director of Liberation Prison Project, and as a touring teacher of Buddhism. Her life and work with prisoners have been featured in the documentary films <em>Chasing Buddha</em> and <em>Key to Freedom</em>.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.robinacourtin.com">http://www.robinacourtin.com</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://www.robinacourtin.com/biography.php">http://www.robinacourtin.com/biography.php</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://www.robinacourtin.com/teachings.php">http://www.robinacourtin.com/teachings.php</a></dd>
+        <dd><a target="_blank" href="http://archive.org/search.php">http://archive.org/search.php</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+  </div><!-- row-fluid="row-fluid" -->
+  <div class="row-fluid">
+    <div class="span4"><h4>Venerable Khenchen Thrangu Rinpoche</h4><img class="teacher" src="img/grey.gif" alt="ktr" data-original="img/teachers/ktr.jpeg" width="480" height="360">
+<p class="teacher_bio">The Venerable Khenchen Thrangu Rinpoche was born in Kham, Tibet, in 1933. At the age of five, he was formally recognized by His Holiness the Sixteenth Karmapa and Tai Situpa as the ninth incarnation of the great Thrangu tulku. He entered Thrangu monastery, where, from the ages of seven to sixteen, he studied reading, writing, grammar, poetry, and astrology, memorized ritual texts, and completed two preliminary retreats. At twenty-three he received full ordination from the Karmapa. Around 1976, Thrangu Rinpoche began giving Buddhist teachings in the West. He has traveled extensively throughout Europe, Asia, and the United States. In 1984 he spent several months in Tibet where he ordained over one hundred monks and nuns and visited several monasteries. In the United States, Thrangu Rinpoche has centers in Maine and California, and is currently building the Vajra Vidya Retreat Center in Crestone, Colorado. Because of his vast knowledge of the Dharma and his skill as a teacher, he was appointed by His Holiness the Dalai Lama to be the personal tutor for His Holiness the Seventeenth Karmapa.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.rinpoche.com">http://www.rinpoche.com</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://www.rinpoche.com/bio1.htm">http://www.rinpoche.com/bio1.htm</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://www.rinpoche.com/teachindex.htm">http://www.rinpoche.com/teachindex.htm</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+    <div class="span4"><h4>Venerable Thupten Phuntsok</h4><img class="teacher" src="img/grey.gif" alt="vtp" data-original="img/teachers/vtp.jpeg" width="480" height="360">
+<p class="teacher_bio">Venerable Thupten Phuntsok hails from Haiti originally, but was brought up mainly in New York City. He has been an ordained member of the Gelugpa Sangha (Gelong) since 1993. He is a long-time student of Lobsang Tharchin Khen Rinpoche, who passed in 2004. Over the past 15 years, Venerable Phuntsok has studied at Sera Mey Monastery in Mysore, India, and at the Dialectic School in Dharamsala, India. He has taken teachings from many prominent Tibetan Lamas, including His Holiness the 14th Dalai Lama, Kirti Tsenshab Rinpoche, and His Holiness the 17th Karmapa, and has participated in Mind and Life Institute conferences held by His Holiness the 14th Dalai Lama and Western scientists. Venerable Phuntsok has taught meditation and other subjects and led retreats at a number of locations over the past 12 years.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.phuntsok.org">http://www.phuntsok.org</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://www.phuntsok.org/about">http://www.phuntsok.org/about</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://www.phuntsok.org/library">http://www.phuntsok.org/library</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+    <div class="span4"><h4>HE Jetsün Khandro Rinpoche</h4><img class="teacher" src="img/grey.gif" alt="jk" data-original="img/teachers/hejk.jpeg" width="480" height="360">
+<p class="teacher_bio">Her Eminence Mindrolling Jetsün Khandro Rinpoche was born as the eldest daughter of Kyabje Mindrolling Trichen Gyurme Künzang Wangyal, the 11th Mindrolling throne holder of the renowned Mindrolling lineage. The Mindrolling lineage is one of the six main Nyingma Lineages of Tibetan Buddhism. Throughout its history, some of the greatest masters of their time have been born within the Mindrolling lineage. Mindrolling has also had the unique lineage of great female masters who have been great teachers and yoginis who have been inspiration for generations to come. This great line of female masters is known as the Jetsünma line and is one of the most remarkable features of Mindrolling.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.khandrorinpoche.org/">http://www.khandrorinpoche.org/</a></dd>
+        <dd><a target="_blank" href="http://www.mindrollinginternational.org/">http://www.mindrollinginternational.org/</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://mjkr.org/biography.cfm">http://mjkr.org/biography.cfm</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" 
+href="http://www.khandrorinpoche.org/teachings/">http://www.khandrorinpoche.org/teachings/</a></dd>
+        <dt>Poto credit</dt>
+        <dd><a target="_blank" href="http://rigpanews.blogspot.com/2010/04/her-eminence-mindrolling-jetsun-khandro.html">http://rigpanews.blogspot.com/2010/04/her-eminence-mindrolling-jetsun-khandro.html</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+  </div><!-- class="row-fluid" -->
+  <div class="row-fluid">
+    <div class="span4"><h4>Professor Robert Thurman</h4><img class="teacher" src="img/grey.gif" alt="rt" data-original="img/teachers/rt.jpeg" width="480" height="360">
+<p class="teacher_bio">Robert Thurman (born August 3, 1941) is an influential and prolific American Buddhist writer and academic who has authored, edited or translated several books on Tibetan Buddhism. He is the Je Tsongkhapa Professor of Indo-Tibetan Buddhist Studies at Columbia University, holding the first endowed chair in this field of study in the United States. He also is the co-founder and president of the Tibet House New York and is active against the People's Republic of China's control of Tibet.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.bobthurman.com/">http://www.bobthurman.com</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://en.wikipedia.org/wiki/Robert_Thurman">http://en.wikipedia.org/wiki/Robert_Thurman</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://bobthurmanpodcast.com/">http://bobthurmanpodcast.com</a></dd>
+        <dt>Photo Credit</dt>
+        <dd><a target="_blank" href="http://dalailamamatters.com/">http://dalailamamatters.com</a></dd>
+      </dl>
+    </div><!-- class="span4"-->
+    <div class="span4"><h4>Tenzin Norbu</h4><img class="teacher" src="img/grey.gif" alt="tn" data-original="img/teachers/tn.jpeg" width="480" height="360">
+<p class="teacher_bio">Tenzin Norbu is the pen name of Terrence L. Moore, PhD. He is a retired associate professor of philosophy; he received his PhD in philosophy from the University of Pittsburgh. Dr. Moore received the dharma name Tenzin Norbu, Tibetan for "Bearer of the Jewel of the Dharma", at his Buddhist refuge ceremony in 1996. He is the author of <em>Ocean of Compassion</em>.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.terrencemoore.us/">http://www.terrencemoore.us</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://www.terrencemoore.us/about/">http://www.terrencemoore.us/about</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://www.blogtalkradio.com/the-life-of-universal-loving">http://www.blogtalkradio.com/the-life-of-universal-loving</a></dd>
+        <dd><a target="_blank" href="http://www.huffingtonpost.com/tenzin-norbu/">http://www.huffingtonpost.com/tenzin-norbu/</a></dd>
+      </dl>
+    </div><!-- class="span4"-->
+    <div class="span4"><h4>Alexander Berzin</h4><img class="teacher" src="img/grey.gif" alt="albe" data-original="img/teachers/albe.jpeg" width="480" height="360">
+<p class="teacher_bio">Alexander Berzin received his B.A. degree in 1965 from the Department of Oriental Studies, Rutgers University in conjunction with Princeton University, his M.A. in 1967 and Ph.D. in 1972 from the Departments of Far Eastern Languages (Chinese) and Sanskrit and Indian Studies, Harvard University. From 1969 to 1998, he resided primarily in Dharamsala, India, initially as a Fulbright scholar, studying and practicing with masters from all four Tibetan Buddhist traditions. Since 1983, Berzin has been traveling around the world, teaching various aspects of Buddhist practice and philosophy, as well as Tibetan-Mongolian history and astro-medical theory, at Dharma centers and universities in more than seventy countries.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.berzinarchives.com/">http://www.berzinarchives.com</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://en.wikipedia.org/wiki/Alexander_Berzin_(scholar)">http://en.wikipedia.org/wiki/Alexander_Berzin_(scholar)</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://www.berzinarchives.com/web/x/nav/n1.html_713983606.html">http://www.berzinarchives.com/web/x/nav/n1.html_713983606.html</a></dd>
+        <dt>Photo Credit</dt>
+        <dd><a target="_blank" href="http://b13zona.blogspot.com/">http://b13zona.blogspot.com/</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+  <div class="row-fluid">
+    <div class="span4"><h4>Buddhadasa Bhikkhu</h4><img class="teacher" src="img/grey.gif" alt="bb" data-original="img/teachers/bb.jpeg" width="480" height="360">
+<p class="teacher_bio">Buddhadasa Bhikkhu (Servant of the Buddha) went forth as a bhikkhu (Buddhist monk) in 1926, at the age of twenty. After a few years of study in Bangkok, which convinced him "purity is not to be found in the big city", he was inspired to live close with nature in order to investigate the Buddha-Dhamma. Thus, he established Suan Mokkhabalarama (The Grove of the Power of Liberation) in 1932, near his hometown of Pum Riang (now in Chaiya District). At that time, it was the only forest Dhamma Center and one of the few places dedicated to vipassana meditation in Southern Thailand. His work was based in extensive research of the Pali texts (Canon and commentary), especially of the Buddha's Discourses (Sutta Pitaka), followed by personal experiment and practice with these teachings. Since the 1960's, activists and thinkers in areas such as education, ecology, social welfare, and rural development have drawn upon his teaching and advice.</p>
+      <dl>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://www.suanmokkh.org/history/tanaj1.htm">http://www.suanmokkh.org/history/tanaj1.htm</a></dd>
+        <dd><a target="_blank" href="http://en.wikipedia.org/wiki/Buddhadasa">http://en.wikipedia.org/wiki/Buddhadasa</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://www.liberationpark.org/audiox/tanaj01.htm">http://www.liberationpark.org/audiox/tanaj01.htm</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+    <div class="span4"><h4>Santikaro</h4><img class="teacher" src="img/grey.gif" alt="s" data-original="img/teachers/s.jpeg" width="480" height="360">
+<p class="teacher_bio">A graduate of the University of Illinois, Ajahn Santikaro served in the Peace Corps in Thailand for over four years. A bhikkhu since 1985, he lived at Suan Mokkh Monastery in Thailand and served as Ajahn Buddhadasa's primary English translator for many years. He was abbot of Suan Atammayatarama and translated and edited <em>Mindfulness with Breathing</em> and <em>Heartwood of the Bodhi Tree</em>. He is active in interreligious dialogue and engaged Buddhism. Santikaro Bhikkhu's vision for a monastic community and Dhamma center in the Midwest USA and in the midst of setting up Liberation Park. Venerable Santikaro Bhikku has a particular interest in Christian-Buddhist dialogue, and has conducted retreats for Catholics in Thailand and the Philippines.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.liberationpark.org/">http://www.liberationpark.org</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://www.buddha.sg/htm/people/santikar.htm">http://www.buddha.sg/htm/people/santikar.htm</a></dd>
+        <dt>Media</dt>
+        <dd><a target="_blank" href="http://www.liberationpark.org/audiox/santi01.htm">http://www.liberationpark.org/audiox/santi01.htm</a></dd>
+        <dt>Photo credit</dt>
+        <dd><a target="_blank" href="http://northfieldmeditation.org/santikaro-dharma-talk/">http://northfieldmeditation.org/santikaro-dharma-talk</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+    <div class="span4"><h4>Matthieu Ricard</h4><img class="teacher" src="img/grey.gif" alt="mr" data-original="img/teachers/mr.jpeg" width="480" height="360">
+<p class="teacher_bio">Matthieu Ricard (born 15 February 1946) is a French Buddhist monk who resides at Shechen Tennyi Dargyeling Monastery in Nepal. He worked for a Ph.D. degree in molecular genetics at the Pasteur Institute. After completing his doctoral thesis in 1972, Ricard decided to forsake his scientific career and concentrate on the practice of Tibetan Buddhism. He lived in the Himalayas studying with the Kangyur Rinpoche and some other great masters of that tradition and became the close student and attendant of Dilgo Khyentse Rinpoche until his death in 1991. Since then, Dr. Ricard has dedicated his activities to fulfilling Khyentse Rinpoche’s vision. Since 1989, he has acted as the French interpreter for the Dalai Lama.</p>
+      <dl>
+        <dt>Homepage</dt>
+        <dd><a target="_blank" href="http://www.matthieuricard.org/en/">http://www.matthieuricard.org/en</a></dd>
+        <dt>Biography</dt>
+        <dd><a target="_blank" href="http://en.wikipedia.org/wiki/Matthieu_Ricard">http://en.wikipedia.org/wiki/Matthieu_Ricard</a></dd>
+      </dl>
+    </div><!-- class="span4" -->
+  </div><!-- class="row-fluid" -->
+</section>
+
+<!-- About Section
+================================================== -->
+<section id="about">
+  <div class="page-header">
+    <h1>About</h1>
+  </div>
+  <h3>What is Radio Buddha?</h3>
+  <p>Radio Buddha is an Internet radio station streaming 
+English-language lectures on Buddhism. We stream all day, every day.</p>
+  <h3>How can I listen to Radio Buddha?</h3>
+  <p>There are currently three ways to listen to Radio Buddha. The 
+easiest is to press the play button at the top of the page. This player has been tested on all major browsers and should work well, but if it doesn't, please try the raw <a target="_blank" href="http://192.241.186.239:8000/mpd.mp3">streaming .mp3</a> (opens in new window). The third way is through <a href="http://tunein.com/radio/Radio-Buddha-s192794/">TuneIn</a> online or one of its mobile apps.</p>
+  <p>If you are experiencing any issues concerning the audio streams, please let us know at <a href="mailto:admin@radiobuddha.com">admin@radiobuddha.com</a>.</p>
+  <h3>How is Radio Buddha different from other online Buddhist radio stations?</h3>
+  <p>The greatest distinction is that we strive to feature teachings from all major Buddhist traditions.</p>
+  <h3>My Dharma teacher would be perfect for Radio Buddha. May I send you recordings to be put into rotation?</h3>
+  <p>As long as your teacher is fine with it, please do! Contact us and we can discuss how to transfer the audio files.</p>
+  <h3>How may we reach you?</h3>
+  <p>Please be in touch by email with thoughts, suggestions, and questions to <a href="mailto:programming@radiobuddha.com">programming@radiobuddha.com</a>. You may also find Radio Buddha on <a href="https://twitter.com/RadioBuddha1">Twitter</a>, <a href="https://www.facebook.com/pages/Radio-Buddha/394154480653743">Facebook</a>, and <a href="https://plus.google.com/u/0/101933038213059697260/">Google+</a>. We also have collections of inspiring images of teachers on <a href="http://pinterest.com/radiobuddha/">Pinterest</a>.</p>
+  <h3>Acknowledgements</h3>
+  <p>The logo was designed through a combination of the works of talented artists <a href="http://openclipart.org/detail/17890/antenna-and-radio-waves-by-johnpwarren">here</a> and <a href="http://openclipart.org/detail/16335/sitting-buddha-silhouette-by-kattekrab-16335">here</a>.</p>
+</section>
+<!-- begin jQuery -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<!--script>
+if (typeof jQuery == 'undefined') {
+    document.write(unescape("%3Cscript src='js/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+}
+</script-->
+<!-- end jQuery -->
+<!-- begin Bootstrap JS -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
+<!--script>
+if (typeof jQuery == 'undefined') {
+    document.write(unescape("%3Cscript src='js/bootstrap.min.js' type='text/javascript'%3E%3C/script%3E"));
+}
+</script-->
+<!-- end Bootstrap JS -->
+<!-- begin jPlayer JS -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/jplayer/2.2.0/jquery.jplayer.min.js"></script>
+<!--script>
+if (typeof jQuery == 'undefined') {
+    document.write(unescape("%3Cscript src='js/jplayer/jquery.jplayer.min.js' type='text/javascript'%3E%3C/script%3E"));
+}
+</script-->
+<script type="text/javascript">
+$(document).ready(function() {
+  $("#jquery_jplayer_1").jPlayer({
+    ready: function(event) {
+      $(this).jPlayer("setMedia", {
+        mp3: "http://192.241.186.239:8000/mpd.mp3"
+      });
+    },
+  swfPath: "js/jplayer/",
+  supplied: "mp3"
+  });
+});
+</script>
+<!-- end Bootstrap JS -->
+<!-- begin LazyLoad JS -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.8.4/jquery.lazyload.min.js"></script>
+<!--script>
+if (typeof jQuery == 'undefined') {
+    document.write(unescape("%3Cscript src='js/jquery.lazyload.js' type='text/javascript'%3E%3C/script%3E"));
+}
+</script-->
+<script type="text/javascript" charset="utf-8">
+      $(function() {
+          $("img.teacher").lazyload({
+          effect:"fadeIn"
+          });
+      });
+</script>
+<!-- end LazyLoad JS -->
+<!-- GA code -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35850009-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- end GA code -->
+<!-- begin holiday snow -->
+<!-- script src="js/jquery.snow.min.1.0.js"></script -->
+<script>
+<!--
+$(document).ready( function(){
+        $.fn.snow();
+});
+//-->
+</script>
+<!-- end holiday snow -->
+</body>
+</html>
